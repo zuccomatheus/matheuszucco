@@ -10,11 +10,13 @@
 - Amejo realizar um MBA em arquitetura de software em Seattle
 - Criar minha própria empresa
 
-##Curiosidades sobre meu dia:
--Estudo durante a manhã
+## Curiosidades sobre meu dia:
+- Estudo durante a manhã
 - Trabalha com atendimento de cliente, banco de dados durante a tarde.
 - pratico execicios no fim da tarde.
-- 
+
+  ![yanggangfitness-lift](https://github.com/user-attachments/assets/ef765074-fc88-4a6e-ba1c-3ceb7eb9b668)
+
 
 ## Contatos:
 
