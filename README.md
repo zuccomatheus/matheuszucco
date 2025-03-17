@@ -17,6 +17,9 @@
 
   ![yanggangfitness-lift](https://github.com/user-attachments/assets/ef765074-fc88-4a6e-ba1c-3ceb7eb9b668)
 
+  ![Snake animation](https://github.com/zuccomatheus/zuccomatheus/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ## Contatos:
 
